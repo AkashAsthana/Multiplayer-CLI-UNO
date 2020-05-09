@@ -1,5 +1,7 @@
 # Multiplayer CLI UNO 
 
+A text based version of UNO (based on official UNO rules) played on the terminal with multiple other players. 
+
 #### Setup 
  * Download all the files except **Procfile** and **server.js**
  * All the players (max. 7) need to download the the files in their system
