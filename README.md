@@ -1,6 +1,6 @@
 # Multiplayer CLI UNO 
 
-A text based version of UNO (based on official UNO rules) played on the terminal with multiple other players online. 
+A text based version of UNO played on the terminal with multiple other players online. 
 
 #### Setup 
  * Download all the files except **Procfile** and **server.js**
